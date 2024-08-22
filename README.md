@@ -17,7 +17,6 @@ Limits script execution time to 60 seconds, logging any timeouts.
 ## Grading: 
 Compares student script output to a golden output file and calculates grades based on differences.
 # Usage
-Prepare the Environment: Ensure the grading directory exists.
 
 ### Run the Script: 
 ./grading_script.sh <max_grade> <golden_output_file> <submission_folder>
